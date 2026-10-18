@@ -5,9 +5,9 @@
 描述项目功能、致力于纯净的本地播放体验。
 
 ## 🖼️ 项目截图
-![截图1](Screenshot/屏幕截图 2026-10-18 080617.jpg)
-![截图2](Screenshot/屏幕截图 2026-10-18 080723.jpg)
-![截图3](Screenshot/屏幕截图 2026-10-18 080744.jpg)
+![播放器截图 s1](Screenshot/s1.jpg)
+![播放器截图 s1](Screenshot/s2.jpg)
+![播放器截图 s1](Screenshot/s3.jpg)
 
 ## 🎬 演示视频
 暂未上传
